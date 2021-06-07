@@ -1,0 +1,56 @@
++ isScript=yes
++ dles -v -m
++ local SCRIPTNAME SCRIPTNAMESHORT SCRIPTVERSION
++ SCRIPTNAME='Data List Editor Script'
+++ echo 'Data List Editor Script'
++++ echo -n A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
++++ tr -d ' '
++++ echo -n a b c d e f g h i j k l m n o p q r s t u v w x y z
++++ tr -d ' '
+++ sed -e 's/[a-z\ ]//g' -e y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/
++ SCRIPTNAMESHORT=dles
++ SCRIPTVERSION=1.0
++ local OUTPUT_MODE=none
++ local PRE_FILE FILE=
++ local PRE_MODE MODE=none
++ dles:main -v -m
++ local LOOPEXIT_1=no
++ local LOOPEXIT_2=no
++ ARRAY_OPT=(file mode)
++ local ARRAY_OPT
++ [[ 2 == 0 ]]
++ [[ no == \n\o ]]
++ [[ -v =~ ^-(v|-verbose)$ ]]
++ OUTPUT_MODE=verbose
++ dles:debug:verbose dles:main:arg1 OUTPUT_MODE=verbose
++ [[ verbose == \v\e\r\b\o\s\e ]]
++ echo '[dles:main:arg1]:OUTPUT_MODE=verbose'
++ shift
++ [[ no == \n\o ]]
++ [[ -m =~ ^-(v|-verbose)$ ]]
++ [[ -m =~ ^-(s|-silence)$ ]]
++ [[ -m =~ ^-(h|-help)$ ]]
++ LOOPEXIT_1=yes
++ [[ yes == \n\o ]]
++ [[ no == \n\o ]]
++ COUNT_FAIL=0
++ for opt in '"${ARRAY_OPT[@]}"'
++ [[ -m =~ ^(-(f|-file=).+|-(f|-file))$ ]]
++ (( COUNT_FAIL++ ))
++ for opt in '"${ARRAY_OPT[@]}"'
++ [[ -m =~ ^(-(m|-mode=).+|-(m|-mode))$ ]]
++ [[ -m =~ ^-m.+$ ]]
++ [[ -m =~ ^--mode=.+$ ]]
++ [[ -m =~ ^-(m|-mode)$ ]]
++ echo mode:
++ [[ -z '' ]]
++ LOOPEXIT_2=yes
++ case $opt in
++ PRE_MODE=
++ shift 2
++ [[ 1 < 2 ]]
++ [[ -n '' ]]
++ echo
++ echo file:
++ echo mode:
++ [[ yes == \n\o ]]

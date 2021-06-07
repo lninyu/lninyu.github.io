@@ -1,0 +1,3219 @@
++ count=0
++++ date
+++ md5 -qs '2021年 6月 7日 月曜日 15時44分40秒 JST'
++ optnone=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhtestughhhhhh 100
++ local ugh ughh ughhh ughhhh
++ ug_=('longa' 'longb' 'longc' 'longd' 'longe' 'longf')
++ ugh=('a' 'b' 'c' 'd' 'e' "$optnone")
++ ughh+=opt_check
+++ seq 100
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd 7339'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=14777'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=8719'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=28971'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe 4986'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -b 17338'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=528'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -d 24808'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe=17296'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -c27284'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf 27095'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb 25718'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -b 10845'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -c 5029'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -b 13748'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed 19987'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -a 32525'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' -d14861'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=29621'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb=32190'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' -e8850'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed24235'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -c21417'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=20790'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -c 3994'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' -a 30749'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe=5920'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -d5114'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf=19091'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf=25283'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' -e360'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=28489'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed 20910'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf 20667'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -d 18320'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc 23075'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf=3288'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe 14821'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -e104'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc=2373'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed15809'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -e 19424'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc=5246'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -b 24368'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' -a28632'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed23050'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -c 11810'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=23585'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed 26700'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe 19843'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -c10594'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb=3609'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb 5644'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc 5417'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc=1037'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -e 214'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd 454'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -c 5533'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf=19891'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=11735'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' -d15850'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb=6459'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=6050'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' -a 27739'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' -c22184'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb 16421'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' -b 25833'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=24929'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=16877'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -d28727'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb 6744'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' --longe 28585'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc 20329'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd 17683'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' -b 28285'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' -b10160'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' --longb=6283'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed 22'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=22951'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -c14263'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -c 28801'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -b30816'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' -c 1510'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=a
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=23483'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed21564'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longb
++ case $((RANDOM%4)) in
++ ughh+=' -c 2767'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' --longc=16136'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' --longa=19837'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed23145'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' -c2563'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf 25244'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=13435'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd 9081'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed11867'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=b
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' -b 20466'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=--81dfce78be69398fb4335c3ed7ccb5ed
++ ughhhh=longc
++ case $((RANDOM%4)) in
++ ughh+=' ---81dfce78be69398fb4335c3ed7ccb5ed 5620'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=d
++ ughhhh=longf
++ case $((RANDOM%4)) in
++ ughh+=' --longf=18841'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longe
++ case $((RANDOM%4)) in
++ ughh+=' -e 1525'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=c
++ ughhhh=longa
++ case $((RANDOM%4)) in
++ ughh+=' -c 22552'
++ for _ in '$(seq "${1:-10}")'
++ ughhh=e
++ ughhhh=longd
++ case $((RANDOM%4)) in
++ ughh+=' --longd=17639'
++ echo 'run: opt_check --longd 7339 --longd=14777 --longd=8719 --longd=28971 --longe 4986 -b 17338 --longa=528 -d 24808 --longe=17296 -c27284 --longf 27095 --longb 25718 -b 10845 -c 5029 -b 13748 ---81dfce78be69398fb4335c3ed7ccb5ed 19987 -a 32525 -d14861 --longd=29621 --longb=32190 -e8850 ---81dfce78be69398fb4335c3ed7ccb5ed24235 -c21417 --longa=20790 -c 3994 -a 30749 --longe=5920 -d5114 --longf=19091 --longf=25283 -e360 --longd=28489 ---81dfce78be69398fb4335c3ed7ccb5ed 20910 --longf 20667 -d 18320 --longc 23075 --longf=3288 --longe 14821 -e104 --longc=2373 ---81dfce78be69398fb4335c3ed7ccb5ed15809 -e 19424 --longc=5246 -b 24368 -a28632 ---81dfce78be69398fb4335c3ed7ccb5ed23050 -c 11810 --longd=23585 ---81dfce78be69398fb4335c3ed7ccb5ed 26700 --longe 19843 -c10594 --longb=3609 --longb 5644 --longc 5417 --longc=1037 -e 214 --longd 454 -c 5533 --longf=19891 --longd=11735 -d15850 --longb=6459 --longd=6050 -a 27739 -c22184 --longb 16421 -b 25833 --longa=24929 --longa=16877 -d28727 --longb 6744 --longe 28585 --longc 20329 --longd 17683 -b 28285 -b10160 --longb=6283 ---81dfce78be69398fb4335c3ed7ccb5ed 22 --longa=22951 -c14263 -c 28801 -b30816 -c 1510 --longd=23483 ---81dfce78be69398fb4335c3ed7ccb5ed21564 -c 2767 --longc=16136 --longa=19837 ---81dfce78be69398fb4335c3ed7ccb5ed23145 -c2563 --longf 25244 --longd=13435 --longd 9081 ---81dfce78be69398fb4335c3ed7ccb5ed11867 -b 20466 ---81dfce78be69398fb4335c3ed7ccb5ed 5620 --longf=18841 -e 1525 -c 22552 --longd=17639'
++ opt_check --longd 7339 --longd=14777 --longd=8719 --longd=28971 --longe 4986 -b 17338 --longa=528 -d 24808 --longe=17296 -c27284 --longf 27095 --longb 25718 -b 10845 -c 5029 -b 13748 ---81dfce78be69398fb4335c3ed7ccb5ed 19987 -a 32525 -d14861 --longd=29621 --longb=32190 -e8850 ---81dfce78be69398fb4335c3ed7ccb5ed24235 -c21417 --longa=20790 -c 3994 -a 30749 --longe=5920 -d5114 --longf=19091 --longf=25283 -e360 --longd=28489 ---81dfce78be69398fb4335c3ed7ccb5ed 20910 --longf 20667 -d 18320 --longc 23075 --longf=3288 --longe 14821 -e104 --longc=2373 ---81dfce78be69398fb4335c3ed7ccb5ed15809 -e 19424 --longc=5246 -b 24368 -a28632 ---81dfce78be69398fb4335c3ed7ccb5ed23050 -c 11810 --longd=23585 ---81dfce78be69398fb4335c3ed7ccb5ed 26700 --longe 19843 -c10594 --longb=3609 --longb 5644 --longc 5417 --longc=1037 -e 214 --longd 454 -c 5533 --longf=19891 --longd=11735 -d15850 --longb=6459 --longd=6050 -a 27739 -c22184 --longb 16421 -b 25833 --longa=24929 --longa=16877 -d28727 --longb 6744 --longe 28585 --longc 20329 --longd 17683 -b 28285 -b10160 --longb=6283 ---81dfce78be69398fb4335c3ed7ccb5ed 22 --longa=22951 -c14263 -c 28801 -b30816 -c 1510 --longd=23483 ---81dfce78be69398fb4335c3ed7ccb5ed21564 -c 2767 --longc=16136 --longa=19837 ---81dfce78be69398fb4335c3ed7ccb5ed23145 -c2563 --longf 25244 --longd=13435 --longd 9081 ---81dfce78be69398fb4335c3ed7ccb5ed11867 -b 20466 ---81dfce78be69398fb4335c3ed7ccb5ed 5620 --longf=18841 -e 1525 -c 22552 --longd=17639
++ local LOOPEXIT=no
++ OPT_L=('longa' 'longb' 'longc' 'longd' 'longe' 'longf')
++ local OPT_L
++ OPT_S=('a' 'b' 'c' 'd' 'e' "$optnone")
++ local OPT_S
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
++ column -s: -t
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd =~ ^-d.+$ ]]
++ [[ --longd =~ ^--longd=.+$ ]]
++ [[ --longd =~ ^-(d|-longd)$ ]]
++ echo 1:longd:7339
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 7339 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 7339 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=14777 =~ ^-d.+$ ]]
++ [[ --longd=14777 =~ ^--longd=.+$ ]]
++ echo 2:longd:14777
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=14777 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=8719 =~ ^-d.+$ ]]
++ [[ --longd=8719 =~ ^--longd=.+$ ]]
++ echo 3:longd:8719
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=8719 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=28971 =~ ^-d.+$ ]]
++ [[ --longd=28971 =~ ^--longd=.+$ ]]
++ echo 4:longd:28971
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28971 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe =~ ^-e.+$ ]]
++ [[ --longe =~ ^--longe=.+$ ]]
++ [[ --longe =~ ^-(e|-longe)$ ]]
++ echo 5:longe:4986
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 4986 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 6:longb:17338
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17338 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17338 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17338 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17338 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=528 =~ ^-a.+$ ]]
++ [[ --longa=528 =~ ^--longa=.+$ ]]
++ echo 7:longa:528
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=528 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d =~ ^-d.+$ ]]
++ [[ -d =~ ^--longd=.+$ ]]
++ [[ -d =~ ^-(d|-longd)$ ]]
++ echo 8:longd:24808
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24808 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24808 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe=17296 =~ ^-e.+$ ]]
++ [[ --longe=17296 =~ ^--longe=.+$ ]]
++ echo 9:longe:17296
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=17296 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c27284 =~ ^-c.+$ ]]
++ echo 10:longc:27284
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c27284 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf =~ ^--longf=.+$ ]]
++ [[ --longf =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 11:longf:27095
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb =~ ^-b.+$ ]]
++ [[ --longb =~ ^--longb=.+$ ]]
++ [[ --longb =~ ^-(b|-longb)$ ]]
++ echo 12:longb:25718
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25718 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25718 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25718 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25718 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 13:longb:10845
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 10845 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 10845 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 10845 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 10845 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 14:longc:5029
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5029 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5029 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5029 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 15:longb:13748
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 13748 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 13748 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 13748 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 13748 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^--longf=.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 16:longf:19987
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ -a =~ ^-a.+$ ]]
++ [[ -a =~ ^--longa=.+$ ]]
++ [[ -a =~ ^-(a|-longa)$ ]]
++ echo 17:longa:32525
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 32525 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 32525 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 32525 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 32525 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 32525 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d14861 =~ ^-d.+$ ]]
++ echo 18:longd:14861
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d14861 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=29621 =~ ^-d.+$ ]]
++ [[ --longd=29621 =~ ^--longd=.+$ ]]
++ echo 19:longd:29621
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=29621 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb=32190 =~ ^-b.+$ ]]
++ [[ --longb=32190 =~ ^--longb=.+$ ]]
++ echo 20:longb:32190
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=32190 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e8850 =~ ^-e.+$ ]]
++ echo 21:longe:8850
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e8850 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed24235 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 22:longf:24235
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c21417 =~ ^-c.+$ ]]
++ echo 23:longc:21417
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c21417 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=20790 =~ ^-a.+$ ]]
++ [[ --longa=20790 =~ ^--longa=.+$ ]]
++ echo 24:longa:20790
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=20790 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 25:longc:3994
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 3994 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 3994 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 3994 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ -a =~ ^-a.+$ ]]
++ [[ -a =~ ^--longa=.+$ ]]
++ [[ -a =~ ^-(a|-longa)$ ]]
++ echo 26:longa:30749
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 30749 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 30749 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 30749 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 30749 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 30749 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe=5920 =~ ^-e.+$ ]]
++ [[ --longe=5920 =~ ^--longe=.+$ ]]
++ echo 27:longe:5920
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe=5920 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d5114 =~ ^-d.+$ ]]
++ echo 28:longd:5114
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d5114 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19091 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf=19091 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf=19091 =~ ^--longf=.+$ ]]
++ echo 29:longf:19091
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=25283 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf=25283 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf=25283 =~ ^--longf=.+$ ]]
++ echo 30:longf:25283
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e360 =~ ^-e.+$ ]]
++ echo 31:longe:360
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e360 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=28489 =~ ^-d.+$ ]]
++ [[ --longd=28489 =~ ^--longd=.+$ ]]
++ echo 32:longd:28489
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=28489 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^--longf=.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 33:longf:20910
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf =~ ^--longf=.+$ ]]
++ [[ --longf =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 34:longf:20667
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d =~ ^-d.+$ ]]
++ [[ -d =~ ^--longd=.+$ ]]
++ [[ -d =~ ^-(d|-longd)$ ]]
++ echo 35:longd:18320
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 18320 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 18320 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc =~ ^-c.+$ ]]
++ [[ --longc =~ ^--longc=.+$ ]]
++ [[ --longc =~ ^-(c|-longc)$ ]]
++ echo 36:longc:23075
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 23075 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 23075 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 23075 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=3288 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf=3288 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf=3288 =~ ^--longf=.+$ ]]
++ echo 37:longf:3288
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe =~ ^-e.+$ ]]
++ [[ --longe =~ ^--longe=.+$ ]]
++ [[ --longe =~ ^-(e|-longe)$ ]]
++ echo 38:longe:14821
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 14821 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e104 =~ ^-e.+$ ]]
++ echo 39:longe:104
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e104 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc=2373 =~ ^-c.+$ ]]
++ [[ --longc=2373 =~ ^--longc=.+$ ]]
++ echo 40:longc:2373
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=2373 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed15809 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 41:longf:15809
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e =~ ^-e.+$ ]]
++ [[ -e =~ ^--longe=.+$ ]]
++ [[ -e =~ ^-(e|-longe)$ ]]
++ echo 42:longe:19424
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 19424 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc=5246 =~ ^-c.+$ ]]
++ [[ --longc=5246 =~ ^--longc=.+$ ]]
++ echo 43:longc:5246
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=5246 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 44:longb:24368
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24368 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24368 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24368 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 24368 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ -a28632 =~ ^-a.+$ ]]
++ echo 45:longa:28632
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a28632 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23050 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 46:longf:23050
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 47:longc:11810
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 11810 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 11810 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 11810 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=23585 =~ ^-d.+$ ]]
++ [[ --longd=23585 =~ ^--longd=.+$ ]]
++ echo 48:longd:23585
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23585 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^--longf=.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 49:longf:26700
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe =~ ^-e.+$ ]]
++ [[ --longe =~ ^--longe=.+$ ]]
++ [[ --longe =~ ^-(e|-longe)$ ]]
++ echo 50:longe:19843
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 19843 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c10594 =~ ^-c.+$ ]]
++ echo 51:longc:10594
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c10594 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb=3609 =~ ^-b.+$ ]]
++ [[ --longb=3609 =~ ^--longb=.+$ ]]
++ echo 52:longb:3609
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=3609 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb =~ ^-b.+$ ]]
++ [[ --longb =~ ^--longb=.+$ ]]
++ [[ --longb =~ ^-(b|-longb)$ ]]
++ echo 53:longb:5644
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5644 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5644 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5644 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5644 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc =~ ^-c.+$ ]]
++ [[ --longc =~ ^--longc=.+$ ]]
++ [[ --longc =~ ^-(c|-longc)$ ]]
++ echo 54:longc:5417
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5417 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5417 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5417 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc=1037 =~ ^-c.+$ ]]
++ [[ --longc=1037 =~ ^--longc=.+$ ]]
++ echo 55:longc:1037
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=1037 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e =~ ^-e.+$ ]]
++ [[ -e =~ ^--longe=.+$ ]]
++ [[ -e =~ ^-(e|-longe)$ ]]
++ echo 56:longe:214
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 214 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd =~ ^-d.+$ ]]
++ [[ --longd =~ ^--longd=.+$ ]]
++ [[ --longd =~ ^-(d|-longd)$ ]]
++ echo 57:longd:454
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 454 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 454 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 58:longc:5533
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5533 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5533 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 5533 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=19891 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf=19891 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf=19891 =~ ^--longf=.+$ ]]
++ echo 59:longf:19891
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=11735 =~ ^-d.+$ ]]
++ [[ --longd=11735 =~ ^--longd=.+$ ]]
++ echo 60:longd:11735
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=11735 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d15850 =~ ^-d.+$ ]]
++ echo 61:longd:15850
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d15850 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb=6459 =~ ^-b.+$ ]]
++ [[ --longb=6459 =~ ^--longb=.+$ ]]
++ echo 62:longb:6459
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6459 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=6050 =~ ^-d.+$ ]]
++ [[ --longd=6050 =~ ^--longd=.+$ ]]
++ echo 63:longd:6050
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=6050 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -a =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ -a =~ ^-a.+$ ]]
++ [[ -a =~ ^--longa=.+$ ]]
++ [[ -a =~ ^-(a|-longa)$ ]]
++ echo 64:longa:27739
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 27739 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 27739 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 27739 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 27739 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 27739 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c22184 =~ ^-c.+$ ]]
++ echo 65:longc:22184
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c22184 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb =~ ^-b.+$ ]]
++ [[ --longb =~ ^--longb=.+$ ]]
++ [[ --longb =~ ^-(b|-longb)$ ]]
++ echo 66:longb:16421
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 16421 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 16421 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 16421 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 16421 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 67:longb:25833
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25833 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25833 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25833 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 25833 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=24929 =~ ^-a.+$ ]]
++ [[ --longa=24929 =~ ^--longa=.+$ ]]
++ echo 68:longa:24929
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=24929 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=16877 =~ ^-a.+$ ]]
++ [[ --longa=16877 =~ ^--longa=.+$ ]]
++ echo 69:longa:16877
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=16877 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ -d28727 =~ ^-d.+$ ]]
++ echo 70:longd:28727
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -d28727 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb =~ ^-b.+$ ]]
++ [[ --longb =~ ^--longb=.+$ ]]
++ [[ --longb =~ ^-(b|-longb)$ ]]
++ echo 71:longb:6744
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 6744 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 6744 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 6744 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 6744 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longe =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ --longe =~ ^-e.+$ ]]
++ [[ --longe =~ ^--longe=.+$ ]]
++ [[ --longe =~ ^-(e|-longe)$ ]]
++ echo 72:longe:28585
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28585 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc =~ ^-c.+$ ]]
++ [[ --longc =~ ^--longc=.+$ ]]
++ [[ --longc =~ ^-(c|-longc)$ ]]
++ echo 73:longc:20329
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20329 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20329 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20329 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd =~ ^-d.+$ ]]
++ [[ --longd =~ ^--longd=.+$ ]]
++ [[ --longd =~ ^-(d|-longd)$ ]]
++ echo 74:longd:17683
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17683 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 17683 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 75:longb:28285
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28285 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28285 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28285 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28285 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b10160 =~ ^-b.+$ ]]
++ echo 76:longb:10160
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b10160 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ --longb=6283 =~ ^-b.+$ ]]
++ [[ --longb=6283 =~ ^--longb=.+$ ]]
++ echo 77:longb:6283
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longb=6283 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^--longf=.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 78:longf:22
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=22951 =~ ^-a.+$ ]]
++ [[ --longa=22951 =~ ^--longa=.+$ ]]
++ echo 79:longa:22951
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=22951 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c14263 =~ ^-c.+$ ]]
++ echo 80:longc:14263
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c14263 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 81:longc:28801
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28801 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28801 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 28801 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b30816 =~ ^-b.+$ ]]
++ echo 82:longb:30816
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b30816 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 83:longc:1510
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 1510 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 1510 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 1510 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=23483 =~ ^-d.+$ ]]
++ [[ --longd=23483 =~ ^--longd=.+$ ]]
++ echo 84:longd:23483
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=23483 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed21564 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 85:longf:21564
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 86:longc:2767
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 2767 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 2767 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 2767 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ --longc=16136 =~ ^-c.+$ ]]
++ [[ --longc=16136 =~ ^--longc=.+$ ]]
++ echo 87:longc:16136
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longc=16136 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ [[ --longa=19837 =~ ^-a.+$ ]]
++ [[ --longa=19837 =~ ^--longa=.+$ ]]
++ echo 88:longa:19837
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longa=19837 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed23145 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 89:longf:23145
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c2563 =~ ^-c.+$ ]]
++ echo 90:longc:2563
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c2563 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf =~ ^--longf=.+$ ]]
++ [[ --longf =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 91:longf:25244
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=13435 =~ ^-d.+$ ]]
++ [[ --longd=13435 =~ ^--longd=.+$ ]]
++ echo 92:longd:13435
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=13435 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd =~ ^-d.+$ ]]
++ [[ --longd =~ ^--longd=.+$ ]]
++ [[ --longd =~ ^-(d|-longd)$ ]]
++ echo 93:longd:9081
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 9081 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 9081 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed11867 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ echo 94:longf:11867
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -b =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ [[ -b =~ ^-b.+$ ]]
++ [[ -b =~ ^--longb=.+$ ]]
++ [[ -b =~ ^-(b|-longb)$ ]]
++ echo 95:longb:20466
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20466 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20466 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20466 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 20466 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^--longf=.+$ ]]
++ [[ ---81dfce78be69398fb4335c3ed7ccb5ed =~ ^-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf)$ ]]
++ echo 96:longf:5620
++ shift
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longf=18841 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ [[ --longf=18841 =~ ^---81dfce78be69398fb4335c3ed7ccb5ed.+$ ]]
++ [[ --longf=18841 =~ ^--longf=.+$ ]]
++ echo 97:longf:18841
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -e =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ [[ -e =~ ^-e.+$ ]]
++ [[ -e =~ ^--longe=.+$ ]]
++ [[ -e =~ ^-(e|-longe)$ ]]
++ echo 98:longe:1525
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 1525 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ -c =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ [[ -c =~ ^-c.+$ ]]
++ [[ -c =~ ^--longc=.+$ ]]
++ [[ -c =~ ^-(c|-longc)$ ]]
++ echo 99:longc:22552
++ shift
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 22552 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 22552 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ 22552 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ [[ --longd=17639 =~ ^-d.+$ ]]
++ [[ --longd=17639 =~ ^--longd=.+$ ]]
++ echo 100:longd:17639
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ --longd=17639 =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 5 < 6 ]]
++ shift
++ [[ no == \n\o ]]
++ (( count++ ))
++ COUNT_FAIL=0
+++ seq 0 1 5
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(a|-longa=).+|-(a|-longa))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(b|-longb=).+|-(b|-longb))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(c|-longc=).+|-(c|-longc))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(d|-longd=).+|-(d|-longd))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(e|-longe=).+|-(e|-longe))$ ]]
++ (( COUNT_FAIL++ ))
++ for i in '$(seq 0 1 ${#OPT_L})'
++ [[ '' =~ ^(-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf=).+|-(--81dfce78be69398fb4335c3ed7ccb5ed|-longf))$ ]]
++ (( COUNT_FAIL++ ))
++ [[ 6 < 6 ]]
++ echo FINISH:
++ LOOPEXIT=yes
++ shift
++ [[ yes == \n\o ]]
+
+real	0m0.406s
+user	0m0.175s
+sys	0m0.186s
