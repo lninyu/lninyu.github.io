@@ -11,8 +11,16 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      background: linear-gradient(270deg, #ff0055, #ffcc00, #00ffcc, #6600ff, #ff0055);
+      background-size: 1000% 1000%;
+      animation: bgshift 8s ease infinite;
       overflow: hidden;
+    }
+
+    @keyframes bgshift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
 
     h1 {
