@@ -1,11 +1,53 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <link href="resource/css/style.css" rel="stylesheet">
-        <title>ぱげ!</title>
-    </head>
-    <div class="hoge">
-        <p>hoge</p>
-    </div>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>うっふーん</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cherry+Swash&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      overflow: hidden;
+    }
+
+    h1 {
+      font-family: 'Cherry Swash', cursive;
+      font-size: 20vw;
+      text-shadow:
+        0 0 10px rgba(255, 255, 255, 0.9),
+        0 0 30px rgba(255, 0, 102, 0.7),
+        0 0 50px rgba(255, 0, 102, 0.5);
+      color: #fff;
+      animation: pulse 2s infinite ease-in-out;
+      background: linear-gradient(45deg, #ff9a9e, #fad0c4, #ffdde1, #fcb69f);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        transform: scale(1);
+        text-shadow:
+          0 0 10px rgba(255, 255, 255, 0.9),
+          0 0 30px rgba(255, 0, 102, 0.7),
+          0 0 50px rgba(255, 0, 102, 0.5);
+      }
+      50% {
+        transform: scale(1.08);
+        text-shadow:
+          0 0 20px rgba(255, 255, 255, 1),
+          0 0 50px rgba(255, 0, 102, 0.9),
+          0 0 70px rgba(255, 0, 102, 0.7);
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>うっふーん</h1>
+</body>
 </html>
